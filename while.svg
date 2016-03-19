@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg6123"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="while.svg">
+  <defs
+     id="defs6125" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="398.20835"
+     inkscape:cy="112.11254"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata6128">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:4.03648281;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4622"
+       width="2571.7175"
+       height="1393.5242"
+       x="-830.43152"
+       y="-63.892269" />
+    <g
+       id="g6940"
+       transform="translate(-3.3881643,-10.952801)">
+      <flowRoot
+         transform="translate(-113.89284,92.234903)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot3354"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3356"><rect
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+             y="152.3622"
+             x="197.14285"
+             height="425.71432"
+             width="674.28564"
+             id="rect3358" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:150%;font-family:'courier new';-inkscape-font-specification:'courier new';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1"
+           id="flowPara3370"><flowSpan
+             id="flowSpan6936"
+             style="font-size:50px;fill:#00ff00;fill-opacity:1;stroke:#00ff00;stroke-opacity:1">while</flowSpan><flowSpan
+             id="flowSpan6910"
+             style="font-size:50px;fill:#ffff00;fill-opacity:1;stroke:#ffff00;stroke-opacity:1"> there_is_food</flowSpan><flowSpan
+             id="flowSpan6938"
+             style="font-size:50px;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1">:</flowSpan></flowPara><flowPara
+           id="flowPara6906"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:150%;font-family:'courier new';-inkscape-font-specification:'courier new';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1">     dog.eat(food)</flowPara><flowPara
+           id="flowPara6904"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;line-height:150%;font-family:'courier new';-inkscape-font-specification:'courier new';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1" /></flowRoot>      <rect
+         y="244.25883"
+         x="57.212372"
+         height="169.24794"
+         width="661.02832"
+         id="rect4176"
+         style="fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:2.33763099;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g7619"
+       transform="translate(28.571429,-237.14286)">
+      <circle
+         r="28.284271"
+         cy="597.70801"
+         cx="-697.31262"
+         id="path4546"
+         style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:3.2750001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4556"
+         y="586.79431"
+         x="-633.76135"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+           id="tspan4560"
+           y="586.79431"
+           x="-633.76135"
+           sodipodi:role="line">Conditionals are composed of </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new Bold';text-align:start;text-anchor:start;fill:#ffffff"
+           id="tspan4566"
+           y="624.29431"
+           x="-633.76135"
+           sodipodi:role="line">a single block<tspan
+   id="tspan6853"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'courier new';-inkscape-font-specification:'courier new'">.</tspan></tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4397"
+         y="519.50513"
+         x="-744.85718"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'"
+           y="519.50513"
+           x="-744.85718"
+           id="tspan4399"
+           sodipodi:role="line">How They are Made from Blocks</tspan></text>
+    </g>
+    <g
+       id="g7766"
+       transform="translate(1057.1429,-1114.2857)">
+      <circle
+         r="28.284271"
+         cy="1454.8986"
+         cx="-144.31618"
+         id="path4546-2"
+         style="fill:#00ff00;fill-opacity:1;stroke:#00ff00;stroke-width:3.2750001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4556-0"
+         y="1464.1895"
+         x="-85.72879"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan6955"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+           y="1464.1895"
+           x="-85.72879"
+           sodipodi:role="line">The keyword is <tspan
+   id="tspan6957"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'courier new';-inkscape-font-specification:'courier new Bold'">while</tspan>.</tspan></text>
+      <circle
+         r="28.284271"
+         cy="1855.9907"
+         cx="-144.431"
+         id="path4546-2-4-5-7-3"
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:3.2750001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         transform="translate(-697.99413,1111.285)"
+         id="g7563">
+        <circle
+           style="fill:#ffff00;fill-opacity:1;stroke:#ffff00;stroke-width:3.2750001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path4546-2-4-5"
+           cx="553.72876"
+           cy="463.62085"
+           r="28.284271" />
+        <circle
+           style="fill:#ffff00;fill-opacity:1;stroke:#ffff00;stroke-width:3.2750001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path4546-2-4-5-8"
+           cx="550.30884"
+           cy="594.70343"
+           r="28.284271" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="607.45581"
+           y="570.8631"
+           id="text4556-0-5-5-25"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="607.45581"
+             y="570.8631"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+             id="tspan4306"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'courier new';-inkscape-font-specification:'courier new Bold'"
+   id="tspan4717">Any expression is legal</tspan>. This is </tspan><tspan
+             sodipodi:role="line"
+             x="607.45581"
+             y="608.3631"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+             id="tspan4310">because all expressions evaluate to </tspan><tspan
+             sodipodi:role="line"
+             x="607.45581"
+             y="645.8631"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+             id="tspan4312">True or False.</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="613.48499"
+           y="449.86804"
+           id="text4556-0-5-5-6"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             x="613.48499"
+             y="449.86804"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+             id="tspan4637-0-6">Each block's <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'courier new';-inkscape-font-specification:'courier new Bold'"
+   id="tspan4713">identifying text is </tspan></tspan><tspan
+             sodipodi:role="line"
+             x="613.48499"
+             y="487.36804"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+             id="tspan4184-7"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'courier new';-inkscape-font-specification:'courier new Bold'"
+   id="tspan4715">a python expression</tspan>.</tspan></text>
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4397-0"
+         y="1364.6699"
+         x="-194.19505"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#00ffff"
+           y="1364.6699"
+           x="-194.19505"
+           id="tspan4399-8"
+           sodipodi:role="line">Rules for Creating Their Blocks</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4556-0-5-5-0-9"
+         y="1806.6499"
+         x="-83.026459"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan4421-2-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+           y="1806.6499"
+           x="-83.026459"
+           sodipodi:role="line">Each block's <tspan
+   id="tspan4727"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'courier new';-inkscape-font-specification:'courier new Bold'">code </tspan>can be <tspan
+   id="tspan4729"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'courier new';-inkscape-font-specification:'courier new Bold'"> composed </tspan></tspan><tspan
+           id="tspan4437-6-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+           y="1844.1499"
+           x="-83.026459"
+           sodipodi:role="line"><tspan
+   id="tspan7597"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'courier new';-inkscape-font-specification:'courier new Bold'">of </tspan>python <tspan
+   id="tspan4731"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'courier new';-inkscape-font-specification:'courier new Bold'">expressions</tspan>, variable </tspan><tspan
+           id="tspan4360-0-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+           y="1881.6499"
+           x="-83.026459"
+           sodipodi:role="line"><tspan
+   id="tspan7589"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'courier new';-inkscape-font-specification:'courier new Bold'">assignments</tspan>, <tspan
+   id="tspan4739"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'courier new';-inkscape-font-specification:'courier new Bold'">and</tspan> other <tspan
+   id="tspan4735"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'courier new';-inkscape-font-specification:'courier new Bold'">control </tspan></tspan><tspan
+           id="tspan4546-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+           y="1919.1499"
+           x="-83.026459"
+           sodipodi:role="line"><tspan
+   id="tspan4737"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'courier new';-inkscape-font-specification:'courier new Bold'">statements</tspan>. </tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="183.47906"
+       y="21.99139"
+       id="text4397-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4399-1"
+         x="183.47906"
+         y="21.99139"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'">While Loops</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="405.95313"
+       y="85.262871"
+       id="text4556-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="417.94531"
+         y="85.262871"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:center;text-anchor:middle;fill:#ffffff"
+         id="tspan4671">While loops allow you to make your code repeat </tspan><tspan
+         sodipodi:role="line"
+         x="405.95313"
+         y="135.26288"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:center;text-anchor:middle;fill:#ffffff"
+         id="tspan7891">while a condition is true.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-718.99951"
+       y="509.46924"
+       id="text4397-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4399-89"
+         x="-718.99951"
+         y="509.46924"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#ff6600">How They are Run</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="18.234667"
+       y="808.75824"
+       id="text4556-0-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="27.228807"
+         y="808.75824"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:center;text-anchor:middle;fill:#ffffff"
+         id="tspan6955-6">Python <tspan
+   style="-inkscape-font-specification:'courier new Bold';font-family:'courier new';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan7893">evaluates </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="18.234667"
+         y="846.25824"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:center;text-anchor:middle;fill:#ffffff"
+         id="tspan7001"><tspan
+   style="-inkscape-font-specification:'courier new Bold';font-family:'courier new';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan7895">the </tspan>block's</tspan><tspan
+         sodipodi:role="line"
+         x="27.228807"
+         y="883.75824"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new Bold';text-align:center;text-anchor:middle;fill:#ffffff"
+         id="tspan7003">expression to True </tspan><tspan
+         sodipodi:role="line"
+         x="18.234667"
+         y="921.25824"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:center;text-anchor:middle;fill:#ffffff"
+         id="tspan7887"><tspan
+   style="-inkscape-font-specification:'courier new Bold';font-family:'courier new';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan7897">or False</tspan>.</tspan></text>
+    <g
+       id="g7133"
+       transform="translate(109.72603,-565.82602)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4556-0-4-1"
+         y="1438.3698"
+         x="150.87053"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan7003-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#00ff00;fill-opacity:1;stroke:#00ff00;stroke-opacity:1"
+           y="1438.3698"
+           x="150.87053"
+           sodipodi:role="line">True</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="rect7005"
+         d="m 217.96149,1352.4668 -14.14258,14.1426 44.32422,44.3242 -143.85742,0 0,41.4277 143.85938,0 -44.89844,44.8965 14.14258,14.1426 59.03906,-59.0391 0.71484,0 0,-0.7148 19.03711,-19.0371 -0.38867,-0.3906 0.96094,-0.961 -19.60938,-19.6094 0,-0.7148 -0.71484,0 -58.4668,-58.4668 z"
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3.5999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="621.63721"
+       y="848.82953"
+       id="text4556-0-4-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="621.63721"
+         y="848.82953"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:center;text-anchor:middle;fill:#ffffff"
+         id="tspan6955-6-4">Python<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'courier new';-inkscape-font-specification:'courier new Bold'"
+   id="tspan7901"> executes</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="621.63721"
+         y="886.32953"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:center;text-anchor:middle;fill:#ffffff"
+         id="tspan7001-1">the block's <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'courier new';-inkscape-font-specification:'courier new Bold'"
+   id="tspan7903">code</tspan>.</tspan><tspan
+         sodipodi:role="line"
+         x="621.63721"
+         y="923.82953"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:center;text-anchor:middle;fill:#ffffff"
+         id="tspan7003-7" /></text>
+    <g
+       id="g7325"
+       transform="matrix(0,1,-1,0,1631.0584,1305.46)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4556-0-4-1-7"
+         y="1638.9756"
+         x="-324.73117"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan7003-5-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-opacity:1"
+           y="1638.9756"
+           x="-324.73117"
+           sodipodi:role="line">False</tspan></text>
+      <path
+         id="rect7223"
+         d="m -252.7832,1548.6406 -13.57227,13.5723 50.27344,50.2734 -147.12891,0 0,41.4278 148.64258,0 -50.77734,50.7773 13.57226,13.5723 84.28516,-84.2852 -1.03125,-1.0312 0.0215,-0.02 -84.28515,-84.2871 z"
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3.5999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3.5999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -19.89506,571.97591 0,12.041 -1.63868,0 0,148.6426 -50.77734,-50.7774 -13.57227,13.5723 84.28516,84.2851 1.03125,-1.0312 0.0195,0.022 84.28711,-84.2852 -13.57226,-13.5722 -50.27344,50.2734 0,-120.9121 582.68945,0 0,148.4453 41.42774,0 0,-172.8574 -1.54297,0 0,-13.8457 -662.36328,0 z"
+       id="rect7223-1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="15.880449"
+       y="1185.4009"
+       id="text4556-0-4-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="15.880449"
+         y="1185.4009"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:center;text-anchor:middle;fill:#ffffff"
+         id="tspan7358">Python <tspan
+   style="-inkscape-font-specification:'courier new Bold';font-family:'courier new';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan7907">exits</tspan> the</tspan><tspan
+         sodipodi:role="line"
+         x="15.880449"
+         y="1222.9009"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:center;text-anchor:middle;fill:#ffffff"
+         id="tspan7362"><tspan
+   style="-inkscape-font-specification:'courier new Bold';font-family:'courier new';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan7909">block</tspan>.</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3.5999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -233.20437,779.92651 -14.14258,14.1426 44.32422,44.3242 -143.85742,0 0,41.4277 143.85938,0 -44.89844,44.8965 14.14258,14.1426 59.03906,-59.0391 0.71484,0 0,-0.7148 19.03711,-19.0371 -0.38867,-0.3906 0.96094,-0.961 -19.60938,-19.6094 0,-0.7148 -0.71484,0 -58.4668,-58.4668 z"
+       id="rect7005-7"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-540.15643"
+       y="821.11517"
+       id="text4556-0-4-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="-540.15643"
+         y="821.11517"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:center;text-anchor:middle;fill:#ffffff"
+         id="tspan7003-1"><tspan
+   style="fill:#00ff00;fill-opacity:1;stroke:#00ff00;stroke-opacity:1"
+   id="tspan7425">Start</tspan>:</tspan><tspan
+         sodipodi:role="line"
+         x="-540.15643"
+         y="858.61517"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:center;text-anchor:middle;fill:#ffffff"
+         id="tspan7423">Python<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'courier new';-inkscape-font-specification:'courier new Bold'"
+   id="tspan7911"> gets to</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="-540.15643"
+         y="896.11517"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:center;text-anchor:middle;fill:#ffffff"
+         id="tspan7419"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'courier new';-inkscape-font-specification:'courier new Bold'"
+   id="tspan7913">the block</tspan>.</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3.538697;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7801"
+       width="1514.347"
+       height="725.77557"
+       x="-700.0307"
+       y="540.90295" />
+  </g>
+</svg>
