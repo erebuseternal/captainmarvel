@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg4741"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="block.svg"
+   inkscape:export-filename="C:\Users\Marcel\Documents\Inkscape\block.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4743" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="-251.12819"
+     inkscape:cy="563.45346"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4746">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:3.40669775;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5289"
+       width="1732.6772"
+       height="1253.98"
+       x="-808.92493"
+       y="-62.635014" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="84.180916"
+       y="132.94905"
+       id="text4556-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="96.173103"
+         y="132.94905"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:center;text-anchor:middle;fill:#ffffff"
+         id="tspan5493">Control and definition statements allow us </tspan><tspan
+         sodipodi:role="line"
+         x="96.173103"
+         y="182.94905"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:center;text-anchor:middle;fill:#ffffff"
+         id="tspan5717">to run code in unusual ways. </tspan><tspan
+         sodipodi:role="line"
+         x="84.180916"
+         y="232.94905"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:center;text-anchor:middle;fill:#ffffff"
+         id="tspan5497" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-706.06067"
+       y="410.49893"
+       id="text4397-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4399-8"
+         x="-706.06067"
+         y="410.49893"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'">Their Components</tspan></text>
+    <circle
+       style="fill:#00ff00;fill-opacity:1;stroke:#00ff00;stroke-width:3.2750001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4546-2"
+       cx="-661.1402"
+       cy="516.29828"
+       r="28.284271" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5532"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion5534"><rect
+           id="rect5536"
+           width="145.71428"
+           height="51.42857"
+           x="62.857143"
+           y="800.93365" /></flowRegion><flowPara
+         id="flowPara5538"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-603.94507"
+       y="494.50638"
+       id="text4556-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="-603.94507"
+         y="494.50638"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+         id="tspan4409">A <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'courier new';-inkscape-font-specification:'courier new Bold'"
+   id="tspan5575">keyword</tspan>: to tell us what kind of </tspan><tspan
+         sodipodi:role="line"
+         x="-603.94507"
+         y="532.00635"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+         id="tspan5571">control or definition statement this</tspan><tspan
+         sodipodi:role="line"
+         x="-603.94507"
+         y="569.50635"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+         id="tspan5573">is.</tspan></text>
+    <circle
+       style="fill:#ffff00;fill-opacity:1;stroke:#ffff00;stroke-width:3.2750001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4546-2-4-5"
+       cx="-665.1402"
+       cy="698.86969"
+       r="28.284271" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-612.11639"
+       y="633.77039"
+       id="text4556-0-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="-612.11639"
+         y="633.77039"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+         id="tspan5625"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'courier new';-inkscape-font-specification:'courier new Bold'"
+   id="tspan5575-3">Identifying text</tspan>: used for both </tspan><tspan
+         sodipodi:role="line"
+         x="-612.11639"
+         y="671.27039"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+         id="tspan5631">distinguishing this statement </tspan><tspan
+         sodipodi:role="line"
+         x="-612.11639"
+         y="708.77045"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+         id="tspan5633">from others of the same type and </tspan><tspan
+         sodipodi:role="line"
+         x="-612.11639"
+         y="746.27045"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+         id="tspan5647">for defining the properties of </tspan><tspan
+         sodipodi:role="line"
+         x="-612.11639"
+         y="783.77045"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+         id="tspan5649">the statement</tspan></text>
+    <circle
+       style="fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:3.2750001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4546-2-4-5-6"
+       cx="-665.1402"
+       cy="866.58392"
+       r="28.284271" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:'courier new';-inkscape-font-specification:'courier new Bold';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-608.97351"
+       y="872.6275"
+       id="text4556-0-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="-608.97351"
+         y="872.6275"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new Bold';text-align:start;text-anchor:start;fill:#ffffff"
+         id="tspan5573-6"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'courier new';-inkscape-font-specification:'courier new'"
+   id="tspan5713">A</tspan> colon </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-604.4021"
+       y="992.91315"
+       id="text4556-0-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="-604.4021"
+         y="992.91315"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+         id="tspan5573-4">The <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'courier new';-inkscape-font-specification:'courier new Bold'"
+   id="tspan5752">code</tspan> to be run differently</tspan></text>
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:3.2750001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4546-2-4-5-7-3"
+       cx="-663.99731"
+       cy="987.72687"
+       r="28.284271" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="127.85907"
+       y="845.82031"
+       id="text4397-0-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4399-8-1"
+         x="127.85907"
+         y="845.82031"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'">Indentation</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="210.32416"
+       y="924.89923"
+       id="text4556-2-5-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="210.32416"
+         y="924.89923"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+         id="tspan5497-6-6">Notice that <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'courier new';-inkscape-font-specification:'courier new Bold'"
+   id="tspan5926">the lines of code in </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="210.32416"
+         y="962.39923"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+         id="tspan5836-2"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'courier new';-inkscape-font-specification:'courier new Bold'"
+   id="tspan5928">a block are indented</tspan>. This is </tspan><tspan
+         sodipodi:role="line"
+         x="210.32416"
+         y="999.89923"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+         id="tspan5907">how you let python know that </tspan><tspan
+         sodipodi:role="line"
+         x="210.32416"
+         y="1037.3992"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+         id="tspan5883">these lines belong to the block. </tspan></text>
+    <circle
+       style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:3.2750001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4546"
+       cx="161.7807"
+       cy="971.90546"
+       r="28.284271" />
+    <g
+       id="g5954"
+       transform="translate(4.0406102,113.13708)">
+      <flowRoot
+         transform="translate(-42.600446,218.51682)"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot3354"
+         xml:space="preserve"><flowRegion
+           id="flowRegion3356"><rect
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+             y="152.3622"
+             x="197.14285"
+             height="425.71432"
+             width="674.28564"
+             id="rect3358" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:'courier new';-inkscape-font-specification:'courier new'"
+           id="flowPara3360"><flowSpan
+             id="flowSpan4220"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'courier new';-inkscape-font-specification:'courier new';fill:#00ff00;fill-opacity:1;stroke:#ffff00;stroke-opacity:0">keyword</flowSpan><flowSpan
+             id="flowSpan4238"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'courier new';-inkscape-font-specification:'courier new';fill:#0000ff;stroke:#0000ff;stroke-opacity:0"><flowSpan
+   id="flowSpan5389"
+   style="fill:#ffff00;fill-opacity:1"> identifying text</flowSpan>:</flowSpan></flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:'courier new';-inkscape-font-specification:'courier new';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1"
+           id="flowPara3362">     lines</flowPara><flowPara
+           id="flowPara5411"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:'courier new';-inkscape-font-specification:'courier new';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1">     of code</flowPara><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;font-family:'courier new';-inkscape-font-specification:'courier new';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1"
+           id="flowPara3370" /></flowRoot>      <g
+         id="g5949">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:3.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 160,555.21935 102.85714,0"
+           id="path5775"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:3.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 261.42857,554.68364 238.125,531.38006"
+           id="path5930"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:3.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 236.914,577.57272 261.58599,555.7231"
+           id="path5930-0"
+           inkscape:connector-curvature="0" />
+      </g>
+      <rect
+         y="349.02994"
+         x="116.9116"
+         height="275.29367"
+         width="663.19232"
+         id="rect5947"
+         style="fill:none;fill-opacity:1;stroke:#848484;stroke-width:3.06780076;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="99.654404"
+       y="398.18848"
+       id="text4397-0-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4399-8-8"
+         x="99.654404"
+         y="398.18848"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'">How They are Written</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="87.367195"
+       y="247.38736"
+       id="text5991"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="99.359383"
+         y="247.38736"
+         id="tspan5995"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:center;text-anchor:middle">Blocks are the basic building blocks of those </tspan><tspan
+         sodipodi:role="line"
+         x="87.367195"
+         y="297.38736"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:center;text-anchor:middle"
+         id="tspan6025">statements.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-49.022491"
+       y="49.208054"
+       id="text4397-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4399-1"
+         x="-49.022491"
+         y="49.208054"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold'">Blocks</tspan></text>
+  </g>
+</svg>
