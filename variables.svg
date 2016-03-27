@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="195.19331"
-     inkscape:cy="1291.1119"
+     inkscape:zoom="0.35"
+     inkscape:cx="529.01169"
+     inkscape:cy="1304.5103"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -208,18 +208,18 @@
     <text
        sodipodi:linespacing="125%"
        id="text4397-0-0-6"
-       y="643.5918"
+       y="717.5918"
        x="434.22321"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#00ffff"
-         y="643.5918"
+         y="717.5918"
          x="434.22321"
          id="tspan4399-8-2-0"
          sodipodi:role="line">Creating Names</tspan></text>
     <g
        id="g6505"
-       transform="translate(-54.26451,-432.25596)">
+       transform="translate(-54.26451,-358.25596)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -700,7 +700,7 @@
     </g>
     <g
        id="g4802"
-       transform="translate(38.59264,-741.11312)">
+       transform="translate(38.59264,-667.11312)">
       <circle
          r="28.284271"
          cy="1695.8634"
@@ -792,7 +792,7 @@
        width="2000.3853"
        height="610.41541"
        x="-398.12146"
-       y="686.52509" />
+       y="760.52509" />
     <g
        id="g5364">
       <circle
@@ -835,7 +835,7 @@
            sodipodi:role="line">2</tspan></text>
     </g>
     <g
-       transform="translate(451.33581,1084.9794)"
+       transform="translate(451.33581,1158.9794)"
        id="g5364-8">
       <circle
          style="fill:#ff6600;fill-opacity:1;stroke:#ff6600;stroke-width:3.2750001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -860,315 +860,321 @@
        d="m 464.67018,443.24021 61.11423,61.11423 43.94163,-59.09392"
        id="path4550"
        inkscape:connector-curvature="0" />
-    <g
-       id="g4726"
-       transform="translate(44.446713,-214.15234)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="-240.39809"
-         y="204.01132"
-         id="text4556-0-5-5-6-7-9-3"
-         sodipodi:linespacing="125%"><tspan
-           id="tspan4374"
-           sodipodi:role="line"
-           x="-240.39809"
-           y="204.01132"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff">In english there are names </tspan><tspan
-           id="tspan4380"
-           sodipodi:role="line"
-           x="-240.39809"
-           y="241.51132"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff">for objects, like apples, </tspan><tspan
-           id="tspan4382"
-           sodipodi:role="line"
-           x="-240.39809"
-           y="279.01132"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff">that you did not give, but </tspan><tspan
-           id="tspan4384"
-           sodipodi:role="line"
-           x="-240.39809"
-           y="316.51132"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff">rather learned. Likewise </tspan><tspan
-           id="tspan4386"
-           sodipodi:role="line"
-           x="-240.39809"
-           y="354.01132"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff">some names in python are </tspan><tspan
-           id="tspan4388"
-           sodipodi:role="line"
-           x="-240.39809"
-           y="391.51132"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"><tspan
-   id="tspan4390"
-   style="font-weight:bold">inherent in the language</tspan>.</tspan></text>
-      <g
-         id="g4661">
-        <text
-           sodipodi:linespacing="125%"
-           id="text4556-0-5-5-6-7-9-3-2"
-           y="204.57509"
-           x="340.93039"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
-             y="204.57509"
-             x="340.93039"
-             sodipodi:role="line"
-             id="tspan4388-8">Other names are given by</tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
-             y="242.07509"
-             x="340.93039"
-             sodipodi:role="line"
-             id="tspan4448"><tspan
+    <text
+       sodipodi:linespacing="125%"
+       id="text4556-0-5-5-6-7-9-3"
+       y="-10.141018"
+       x="-195.95137"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+         y="-10.141018"
+         x="-195.95137"
+         sodipodi:role="line"
+         id="tspan4374">In english there are names </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+         y="27.358982"
+         x="-195.95137"
+         sodipodi:role="line"
+         id="tspan4380">for objects, like apples, </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+         y="64.858978"
+         x="-195.95137"
+         sodipodi:role="line"
+         id="tspan4382">that you did not give, but </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+         y="102.35898"
+         x="-195.95137"
+         sodipodi:role="line"
+         id="tspan4384">rather learned. Likewise </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+         y="139.85898"
+         x="-195.95137"
+         sodipodi:role="line"
+         id="tspan4386">some names in python are </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+         y="177.35898"
+         x="-195.95137"
+         sodipodi:role="line"
+         id="tspan4388"><tspan
+   style="font-weight:bold"
+   id="tspan4390">inherent in the language</tspan>.</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4556-0-5-5-6-7-9-3-2"
+       y="-9.5772514"
+       x="385.37711"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+         y="-9.5772514"
+         x="385.37711"
+         sodipodi:role="line"
+         id="tspan4388-8">Other names are given by</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+         y="27.922749"
+         x="385.37711"
+         sodipodi:role="line"
+         id="tspan4448"><tspan
    style="font-weight:bold"
    id="tspan4458">you to a particular thing</tspan>.</tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
-             y="279.57507"
-             x="340.93039"
-             sodipodi:role="line"
-             id="tspan4450">This kind of naming is </tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
-             y="317.07507"
-             x="340.93039"
-             sodipodi:role="line"
-             id="tspan4452">equivalent to naming </tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
-             y="354.57507"
-             x="340.93039"
-             sodipodi:role="line"
-             id="tspan4454">children or giving your </tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
-             y="392.07507"
-             x="340.93039"
-             sodipodi:role="line"
-             id="tspan4456">friend a nickname.</tspan></text>
-        <text
-           sodipodi:linespacing="125%"
-           id="text4556-0-5-5-6-7-9-3-5"
-           y="202.27927"
-           x="903.36115"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
-             y="202.27927"
-             x="903.36115"
-             sodipodi:role="line"
-             id="tspan4388-1">Finally, just like when </tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
-             y="239.77927"
-             x="903.36115"
-             sodipodi:role="line"
-             id="tspan4502">you create an imaginary </tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
-             y="277.27927"
-             x="903.36115"
-             sodipodi:role="line"
-             id="tspan4506">kind of animal you give </tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
-             y="314.77927"
-             x="903.36115"
-             sodipodi:role="line"
-             id="tspan4514">its species a name, <tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+         y="65.422729"
+         x="385.37711"
+         sodipodi:role="line"
+         id="tspan4450">This kind of naming is </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+         y="102.92273"
+         x="385.37711"
+         sodipodi:role="line"
+         id="tspan4452">equivalent to naming </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+         y="140.42273"
+         x="385.37711"
+         sodipodi:role="line"
+         id="tspan4454">children or giving your </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+         y="177.92273"
+         x="385.37711"
+         sodipodi:role="line"
+         id="tspan4456">friend a nickname.</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4556-0-5-5-6-7-9-3-5"
+       y="-11.873074"
+       x="947.80786"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+         y="-11.873074"
+         x="947.80786"
+         sodipodi:role="line"
+         id="tspan4388-1">Finally, just like when </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+         y="25.626926"
+         x="947.80786"
+         sodipodi:role="line"
+         id="tspan4502">you create an imaginary </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+         y="63.126926"
+         x="947.80786"
+         sodipodi:role="line"
+         id="tspan4506">kind of animal you give </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+         y="100.62692"
+         x="947.80786"
+         sodipodi:role="line"
+         id="tspan4514">its species a name, <tspan
    style="font-weight:bold"
    id="tspan4526">you </tspan></tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
-             y="352.27927"
-             x="903.36115"
-             sodipodi:role="line"
-             id="tspan4522">give names to new things</tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
-             y="389.77927"
-             x="903.36115"
-             sodipodi:role="line"
-             id="tspan4524"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+         y="138.12692"
+         x="947.80786"
+         sodipodi:role="line"
+         id="tspan4522">give names to new things</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+         y="175.62692"
+         x="947.80786"
+         sodipodi:role="line"
+         id="tspan4524"><tspan
    style="font-weight:bold"
    id="tspan4528">you define</tspan> in python.</tspan></text>
-        <rect
-           style="fill:none;fill-opacity:0.94117647;stroke:#ffffff;stroke-width:3.5999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect4530"
-           width="1668.5714"
-           height="297.14285"
-           x="-286.89786"
-           y="147.46011" />
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 284.53085,150.31725 0,294.28572"
-           id="path4532"
-           inkscape:connector-curvature="0" />
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 841.67369,146.88868 0,294.28572"
-           id="path4532-2"
-           inkscape:connector-curvature="0" />
-        <text
-           sodipodi:linespacing="125%"
-           id="text4397-0-9"
-           y="73.089294"
-           x="358.83362"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#00ffff"
-             y="73.089294"
-             x="358.83362"
-             id="tspan4399-8-26"
-             sodipodi:role="line">Giving Names</tspan></text>
-        <g
-           transform="translate(318.27561,515.31148)"
-           id="g5364-9">
-          <circle
-             style="fill:#ff6600;fill-opacity:1;stroke:#ff6600;stroke-width:3.2750001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             id="path4546-6-0-8"
-             cx="-13.989899"
-             cy="-454.66357"
-             r="28.284271" />
-          <text
-             sodipodi:linespacing="125%"
-             id="text5360-2"
-             y="-442.49496"
-             x="-26.571426"
-             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-             xml:space="preserve"><tspan
-               y="-442.49496"
-               x="-26.571426"
-               id="tspan5362-6"
-               sodipodi:role="line">3</tspan></text>
-        </g>
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot3354-9"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           transform="translate(130.28744,346.55541)"><flowRegion
-             id="flowRegion3356-2"><rect
-               id="rect3358-9"
-               width="674.28564"
-               height="425.71432"
-               x="197.14285"
-               y="152.3622"
-               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
-             id="flowPara3370-1"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:150%;font-family:'courier new';-inkscape-font-specification:'courier new';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1"><flowSpan
-               style="font-size:35px;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
-               id="flowSpan5627-8">name</flowSpan><flowSpan
-               style="font-size:35px;fill:#00ff00;fill-opacity:1;stroke:#00ff00;stroke-opacity:1"
-               id="flowSpan5643-5"> =</flowSpan><flowSpan
-               style="font-size:35px;fill:#00ffff;fill-opacity:1;stroke:#00ffff;stroke-opacity:1"
-               id="flowSpan5681-4"> particular_thing</flowSpan></flowPara></flowRoot>        <text
-           sodipodi:linespacing="125%"
-           id="text4556-0-5-5-6-7-9-1-4-7-3"
-           y="598.6795"
-           x="333.08093"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
-             y="598.6795"
-             x="333.08093"
-             sodipodi:role="line"
-             id="tspan4481">To name a particular thing you</tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
-             y="629.9295"
-             x="333.08093"
-             sodipodi:role="line"
-             id="tspan5750-8"><tspan
+    <rect
+       style="fill:none;fill-opacity:0.94117647;stroke:#ffffff;stroke-width:3.5999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4530"
+       width="1668.5714"
+       height="297.14285"
+       x="-242.45114"
+       y="-66.69223" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 328.97756,-63.83509 0,294.28572"
+       id="path4532"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 886.1204,-67.26366 0,294.28572"
+       id="path4532-2"
+       inkscape:connector-curvature="0" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4397-0-9"
+       y="-141.06305"
+       x="403.28033"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#00ffff"
+         y="-141.06305"
+         x="403.28033"
+         id="tspan4399-8-26"
+         sodipodi:role="line">Giving Names</tspan></text>
+    <g
+       transform="translate(362.72232,301.15914)"
+       id="g5364-9">
+      <circle
+         style="fill:#ff6600;fill-opacity:1;stroke:#ff6600;stroke-width:3.2750001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path4546-6-0-8"
+         cx="-13.989899"
+         cy="-454.66357"
+         r="28.284271" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5360-2"
+         y="-442.49496"
+         x="-26.571426"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-442.49496"
+           x="-26.571426"
+           id="tspan5362-6"
+           sodipodi:role="line">3</tspan></text>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3354-9"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(174.73415,206.40307)"><flowRegion
+         id="flowRegion3356-2"><rect
+           id="rect3358-9"
+           width="674.28564"
+           height="425.71432"
+           x="197.14285"
+           y="152.3622"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
+         id="flowPara3370-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:150%;font-family:'courier new';-inkscape-font-specification:'courier new';fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1"><flowSpan
+           style="font-size:35px;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
+           id="flowSpan5627-8">name</flowSpan><flowSpan
+           style="font-size:35px;fill:#00ff00;fill-opacity:1;stroke:#00ff00;stroke-opacity:1"
+           id="flowSpan5643-5"> =</flowSpan><flowSpan
+           style="font-size:35px;fill:#00ffff;fill-opacity:1;stroke:#00ffff;stroke-opacity:1"
+           id="flowSpan5681-4"> particular_thing</flowSpan></flowPara></flowRoot>    <text
+       sodipodi:linespacing="125%"
+       id="text4556-0-5-5-6-7-9-1-4-7-3"
+       y="458.52716"
+       x="377.52765"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+         y="458.52716"
+         x="377.52765"
+         sodipodi:role="line"
+         id="tspan4481">To name a particular thing you</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+         y="489.77716"
+         x="377.52765"
+         sodipodi:role="line"
+         id="tspan5750-8"><tspan
    style="font-weight:bold;font-size:25px"
    id="tspan4533">write </tspan>the <tspan
    style="font-size:25px;fill:#ff0000;fill-opacity:1;stroke:#0000ff;stroke-opacity:1"
    id="tspan5752-7">name</tspan>, an <tspan
    style="font-size:25px;fill:#00ff00;fill-opacity:1;stroke:#00ff00;stroke-opacity:1"
    id="tspan4513">equals-sign</tspan>, </tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
-             y="661.1795"
-             x="333.08093"
-             sodipodi:role="line"
-             id="tspan4503">and the <tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+         y="521.02716"
+         x="377.52765"
+         sodipodi:role="line"
+         id="tspan4503">and the <tspan
    style="font-size:25px;fill:#ffff00;fill-opacity:1;stroke:#00ffff;stroke-opacity:1"
    id="tspan4521">particular thing </tspan>you want </tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
-             y="692.4295"
-             x="333.08093"
-             sodipodi:role="line"
-             id="tspan4527">to name.</tspan></text>
-        <g
-           id="g4556">
-          <path
-             inkscape:connector-curvature="0"
-             id="path4552"
-             d="m 504.06613,445.26052 55.05331,55.05331"
-             style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-          <path
-             inkscape:connector-curvature="0"
-             id="path4554"
-             d="m 557.08878,500.81891 55.05331,-55.05332"
-             style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        </g>
-        <g
-           transform="translate(-590.96125,1.89391)"
-           id="g4556-8">
-          <path
-             inkscape:connector-curvature="0"
-             id="path4552-0"
-             d="m 504.06613,445.26052 55.05331,55.05331"
-             style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-          <path
-             inkscape:connector-curvature="0"
-             id="path4554-1"
-             d="m 557.08878,500.81891 55.05331,-55.05332"
-             style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        </g>
-        <g
-           transform="translate(569.34798,-0.4035535)"
-           id="g4556-87">
-          <path
-             inkscape:connector-curvature="0"
-             id="path4552-7"
-             d="m 504.06613,445.26052 55.05331,55.05331"
-             style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-          <path
-             inkscape:connector-curvature="0"
-             id="path4554-8"
-             d="m 557.08878,500.81891 55.05331,-55.05332"
-             style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        </g>
-        <flowRoot
-           xml:space="preserve"
-           id="flowRoot3354-9-5"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           transform="translate(-541.02741,350.5641)"><flowRegion
-             id="flowRegion3356-2-5"><rect
-               id="rect3358-9-2"
-               width="674.28564"
-               height="425.71432"
-               x="197.14285"
-               y="152.3622"
-               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
-             id="flowPara3370-1-7"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:150%;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1">You will learn these names</flowPara><flowPara
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:150%;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1"
-             id="flowPara4624">over time.</flowPara></flowRoot>        <flowRoot
-           xml:space="preserve"
-           id="flowRoot3354-9-5-2"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           transform="translate(593.95941,350.58783)"><flowRegion
-             id="flowRegion3356-2-5-1"><rect
-               id="rect3358-9-2-8"
-               width="674.28564"
-               height="425.71432"
-               x="197.14285"
-               y="152.3622"
-               style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:150%;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1"
-             id="flowPara4624-7">You will learn how this</flowPara><flowPara
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:150%;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1"
-             id="flowPara4655">works when we get to </flowPara><flowPara
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:150%;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1"
-             id="flowPara4657">definitions.</flowPara></flowRoot>        <rect
-           style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3.63314486;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="rect4659"
-           width="1668.3477"
-           height="302.00247"
-           x="-286.86676"
-           y="445.27707" />
-      </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:start;text-anchor:start;fill:#ffffff"
+         y="552.27716"
+         x="377.52765"
+         sodipodi:role="line"
+         id="tspan4527">to name.</tspan></text>
+    <g
+       id="g4556"
+       transform="translate(44.446713,-140.15234)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4552"
+         d="m 504.06613,445.26052 55.05331,55.05331"
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4554"
+         d="m 557.08878,500.81891 55.05331,-55.05332"
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
+    <g
+       transform="translate(-546.51454,-138.25843)"
+       id="g4556-8">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4552-0"
+         d="m 504.06613,445.26052 55.05331,55.05331"
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4554-1"
+         d="m 557.08878,500.81891 55.05331,-55.05332"
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       transform="translate(613.79469,-140.55589)"
+       id="g4556-87">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4552-7"
+         d="m 504.06613,445.26052 55.05331,55.05331"
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4554-8"
+         d="m 557.08878,500.81891 55.05331,-55.05332"
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3.5999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3354-9-5"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-496.5807,210.41176)"><flowRegion
+         id="flowRegion3356-2-5"><rect
+           id="rect3358-9-2"
+           width="674.28564"
+           height="425.71432"
+           x="197.14285"
+           y="152.3622"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
+         id="flowPara3370-1-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:150%;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1">You will learn these names</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:150%;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1"
+         id="flowPara4624">over time.</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3354-9-5-2"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(638.40612,210.43549)"><flowRegion
+         id="flowRegion3356-2-5-1"><rect
+           id="rect3358-9-2-8"
+           width="674.28564"
+           height="425.71432"
+           x="197.14285"
+           y="152.3622"
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:150%;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1"
+         id="flowPara4624-7">You will learn how this</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:150%;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1"
+         id="flowPara4655">works when we get to </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:150%;font-family:'courier new';-inkscape-font-specification:'courier new';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-opacity:1"
+         id="flowPara4657">definitions.</flowPara></flowRoot>    <rect
+       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:3.63314486;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4659"
+       width="1668.3477"
+       height="302.00247"
+       x="-242.42004"
+       y="305.12473" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4397-0-9-7"
+       y="271.99139"
+       x="340.57953"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;font-family:'Courier New';-inkscape-font-specification:'Courier New Bold';fill:#00ffff"
+         y="271.99139"
+         x="340.57953"
+         id="tspan4399-8-26-3"
+         sodipodi:role="line">The Practical Consequence</tspan></text>
   </g>
 </svg>
